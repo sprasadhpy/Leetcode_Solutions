@@ -1,5 +1,5 @@
 # Leetcode_Solutions
-A collection of LeetCode questions to ace the coding interview!
+A curated collection of LeetCode solutions showcasing my problem-solving abilities and readiness for coding interviews. This repository highlights my approach to tackling a variety of coding challenges, demonstrating the skills and techniques I can bring to technical roles.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics

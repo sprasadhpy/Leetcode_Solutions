@@ -7,8 +7,17 @@ A curated collection of LeetCode solutions showcasing my problem-solving abiliti
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sprasadhpy/Leetcode_Solutions/tree/master/0001-two-sum) |
+| [0055-jump-game](https://github.com/sprasadhpy/Leetcode_Solutions/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sprasadhpy/Leetcode_Solutions/tree/master/0001-two-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/sprasadhpy/Leetcode_Solutions/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/sprasadhpy/Leetcode_Solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->

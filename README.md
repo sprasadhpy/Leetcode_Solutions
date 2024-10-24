@@ -20,4 +20,12 @@ A curated collection of LeetCode solutions showcasing my problem-solving abiliti
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/sprasadhpy/Leetcode_Solutions/tree/master/0055-jump-game) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sprasadhpy/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sprasadhpy/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

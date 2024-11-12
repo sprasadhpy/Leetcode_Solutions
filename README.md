@@ -12,6 +12,7 @@ A curated collection of LeetCode solutions showcasing my problem-solving abiliti
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sprasadhpy/Leetcode_Solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sprasadhpy/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -23,9 +24,14 @@ A curated collection of LeetCode solutions showcasing my problem-solving abiliti
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sprasadhpy/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/sprasadhpy/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sprasadhpy/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sprasadhpy/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->

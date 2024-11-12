@@ -19,6 +19,31 @@
                 return max_length
 
 
+Algorithm Steps
+Initialize Variables:
+
+Create an empty set char_set to store unique characters in the current substring.
+Set left pointer to 0, the starting point of the sliding window.
+Set max_length to 0, to store the length of the longest substring found.
+Traverse the String with right Pointer:
+
+Use a for loop to move the right pointer from the start to the end of the string.
+Check for Duplicates:
+
+While s[right] is in char_set (indicating a duplicate):
+Remove s[left] from char_set.
+Move the left pointer one step right to shrink the window and remove duplicates.
+Add Current Character:
+
+Add s[right] to char_set after ensuring there are no duplicates.
+Update Maximum Length:
+
+Calculate the current window length as right - left + 1.
+Update max_length with the maximum of its current value and the current window length.
+Return Result:
+
+After the loop, max_length contains the length of the longest substring without repeating characters. Return max_length.
+
 
 Time Complexity: 
 
